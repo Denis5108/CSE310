@@ -4,6 +4,6 @@ This is a simple hello world program using github.
 <!DOCTYPE html>
 <html>
   <body>
-    <img src="wk01/helloImg.PNG">
+    <img src="helloImg.PNG">
   </body>
 </html>
